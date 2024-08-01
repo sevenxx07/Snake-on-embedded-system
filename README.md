@@ -8,10 +8,10 @@ The goal of this project was to create a 2D Snake game that can be run on a devi
 semester work for the subject B35APO – Computer Architecture.
 
 # Project structure
-The game as such is divided into 3 basic parts, which are then divided into files.
-a) Menu
-b) Game
-c) End of the game
+The game as such is divided into 3 basic parts, which are then divided into files.<br />
+a) Menu<br />
+b) Game<br />
+c) End of the game<br />
 As such, the files are then structured like this:<br />
 ![obrazek](https://github.com/user-attachments/assets/223341d5-0624-461f-afe2-c0f8fa395c81)<br />
 All files then use the utils.h file. It contains the definition of all necessary structures in program. More detailed information with description of functions, structures
